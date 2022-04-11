@@ -1,4 +1,4 @@
-# Flipside-Queries
+# Flipside-Queries (Adding Content Soon..)
 This repository contains all the SQL queries used to create visualizations in my Flipside Dashboards.
 
 ### 1. Data Source (Flipside Crypto)
